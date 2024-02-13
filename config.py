@@ -45,7 +45,7 @@ Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍ
 Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
 Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ
 
-<a href=https://telegra.ph/File-Bot-11-28>➜ 𝖤𝗑𝗍𝗋𝖺 𝖥𝖾𝖺𝗍𝗎𝗋𝖾</a>
+➜ <a href=https://telegra.ph/File-Bot-11-28>𝖤𝗑𝗍𝗋𝖺 𝖥𝖾𝖺𝗍𝗎𝗋𝖾</a>
 """
 
     ABOUT_TXT = """<b>🤖 𝖬𝗒 𝗇𝖺𝗆𝖾: <a href=http://t.me/FZXUltraRenameBot>𝖥𝖹𝖷 𝖴𝗅𝗍𝗋𝖺 𝖱𝖾𝗇𝖺𝗆𝖾 𝖡𝗈𝗍</a>
